@@ -78,7 +78,7 @@ Match Knowledge Portal colors + typography
 
 .logout-btn {
   background: transparent;
-  border-radius: 999px;
+  border-radius: 998px;
   border: 1.5px solid var(--color-border-strong);
   padding: 0.4rem 0.9rem;
   font-size: 0.85rem;
